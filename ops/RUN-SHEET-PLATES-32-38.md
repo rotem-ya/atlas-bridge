@@ -103,8 +103,9 @@ bird's-eye view, isometric view, floor plan.
 
 NO WRITING IN ANY IMAGE. The images contain no letters, numbers,
 words, labels, captions, titles, plate numbers, signatures,
-watermarks, scale bars or compass roses. Do not write "Plate 32",
-"Plate 32" or any variant in any corner or along any edge. Where an
+watermarks, scale bars or compass roses. Do not write a plate
+number, an "ATLAS-nn" code, or any variant of either, in any corner
+or along any edge. Where an
 ancient inscription is part of a depicted object, render it as
 illegible incised marks only — never as readable letters.
 
@@ -370,8 +371,9 @@ bird's-eye view, isometric view, floor plan.
 
 NO WRITING IN ANY IMAGE. The images contain no letters, numbers,
 words, labels, captions, titles, plate numbers, signatures,
-watermarks, scale bars or compass roses. Do not write "Plate 32",
-"Plate 32" or any variant in any corner or along any edge. Where an
+watermarks, scale bars or compass roses. Do not write a plate
+number, an "ATLAS-nn" code, or any variant of either, in any corner
+or along any edge. Where an
 ancient inscription is part of a depicted object, render it as
 illegible incised marks only — never as readable letters.
 
