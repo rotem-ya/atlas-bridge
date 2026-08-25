@@ -63,7 +63,7 @@
 
 חפש את הקובץ `ATLAS-16.jpg` בתיקיית הגשר:
 
-    G:\...\אטלס\קלוד DELL\plates\ATLAS-16.jpg
+    D:\Google Drive Eng.Rotem\aplications\אטלס מקראי\קלוד DELL\plates\ATLAS-16.jpg
 
 **סימן זיהוי מוחלט: הקובץ הנכון שוקל בדיוק 3,842,241 בתים.**
 (2528×1696, 300dpi. זהו לוח מערכת המסתור — חתך אנכי, בית מקורה
@@ -385,7 +385,7 @@ one open rectangular square; empty blocks with no buildings drawn.
 כל קובץ שהופק — **גם גרסאות שנראות לך פחות טובות** — נשמר אל
 תיקיית הגשר, לתת-תיקייה `wip`:
 
-    G:\...\אטלס\קלוד DELL\wip\
+    D:\Google Drive Eng.Rotem\aplications\אטלס מקראי\קלוד DELL\wip\
 
 (אם `wip` אינה קיימת — צור אותה. זו התיקייה היחידה שמותר לך ליצור.)
 

@@ -54,7 +54,7 @@
 
 חפש את הקובץ `ATLAS-16.jpg` בתיקיית הגשר:
 
-    G:\...\אטלס\קלוד DELL\plates\ATLAS-16.jpg
+    D:\Google Drive Eng.Rotem\aplications\אטלס מקראי\קלוד DELL\plates\ATLAS-16.jpg
 
 **סימן זיהוי מוחלט: הקובץ הנכון שוקל בדיוק 3,842,241 בתים.**
 (2528×1696, 300dpi. זהו לוח מערכת המסתור — חתך אנכי, בית מקורה
@@ -369,7 +369,7 @@ space is standing height or taller.
 
 חפש את הקובץ `ATLAS-16.jpg` בתיקיית הגשר:
 
-    G:\...\אטלס\קלוד DELL\plates\ATLAS-16.jpg
+    D:\Google Drive Eng.Rotem\aplications\אטלס מקראי\קלוד DELL\plates\ATLAS-16.jpg
 
 **סימן זיהוי מוחלט: הקובץ הנכון שוקל בדיוק 3,842,241 בתים.**
 (2528×1696, 300dpi. זהו לוח מערכת המסתור — חתך אנכי, בית מקורה
