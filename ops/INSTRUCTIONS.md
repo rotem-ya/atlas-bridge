@@ -170,9 +170,12 @@ ATLAS-18.CANDIDATE-2.jpg
 שאחד־עשר דוחות של התפעול ישבו בה ואיש לא קרא.
 
 ```
-https://drive.google.com/drive/folders/1nYzO_aCQTHkazztFS0OOYRBz_04UV1WY
-מזהה: 1nYzO_aCQTHkazztFS0OOYRBz_04UV1WY
+https://drive.google.com/drive/folders/182HnN4y46wzC1FW07g_lc101dSg-OZig
+מזהה: 182HnN4y46wzC1FW07g_lc101dSg-OZig
 ```
+
+**המזהה שהיה כאן (`1nYzO_…`) שגוי ומחזיר אפס פריטים.** התוקן לפי
+המדידה בסעיף 4 למטה, ואומת שוב ב-26.8: העץ המלא נסרק מהמכולה.
 
 תיקיות משנה: `קלוד DELL/` (ה-wip, ובתוכו `report/`
 ו-`מעקב-מדיה-אטלס.xlsx`) · `קריינות/`.
