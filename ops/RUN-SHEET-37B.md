@@ -2,10 +2,14 @@
 
 **צוות AI מדיה · 2026-08-28 · טיוטה לביקורת צוות AI עיצוב.**
 
-> **מצב הדף: טרם רץ. שני שערים לפניו, בסדר הזה:**
-> 1. **לוח 37 עצמו חייב להיות מאושר קודם.** הוא העוגן המצורף,
->    והוא עדיין בהרצה (`RUN-SHEET-34-37`). אין עוגן — אין 37B.
-> 2. **פסק ביקורת העיצוב על הדף הזה.**
+> **מצב הדף: משוחרר להרצה (המנהל, 28.8 לילה). שני השערים נסגרו:**
+> 1. **לוח 37 מאושר וחי באתר** — הורץ בידי האדמין 27.8, חובר לקיו 5
+>    בקריינות. העוגן להצמדה מונח כאן: **`assets/ATLAS-37.APPROVED.jpg`**
+>    (2528×1696, נגזר מהלוח החי). זה הקובץ לצרף — לא `CANDIDATE-1`.
+> 2. **פסק ביקורת העיצוב ניתן:** מאושר בכפוף למשפט חריגת הגגות,
+>    והמשפט מוטמע בסעיף 4 (`ROOFS EXCEPTION`). אין צורך בסבב נוסף.
+>
+> **סדר בתחנה: 06-07 קודם, ואז הדף הזה.**
 
 **מקור ההחלטה:** הזמנת האדמין (28.8, דרך המנהל): *"בפסקה על חורבן
 ביתר צריך שהתמונה תראה את הבתים ההרוסים והחומה שבורה"*, ובשפת
@@ -40,10 +44,12 @@
 הבית החרב בלי לצייר את החורבן קורה. הפאתוס נפסל בלוח הזה פעם
 אחת (פסק C1) ולא יחזור מדלת אחרת.
 
-## 2 · לפני ההדבקה — צרפו את `ATLAS-37.jpg` המאושר
+## 2 · לפני ההדבקה — צרפו את `assets/ATLAS-37.APPROVED.jpg`
 
 **את הלוח המאושר, לא את `CANDIDATE-1`** (יש בו משפחה, והיא תיגרר
-פנימה). ופתחו את ההודעה בשורה הזאת, לפני הבלוק:
+פנימה). הקובץ מונח בתיקייה הזאת בשם `ATLAS-37.APPROVED.jpg` —
+נגזר מהלוח החי באתר, אותו קובץ שהאדמין אישר 27.8.
+ופתחו את ההודעה בשורה הזאת, לפני הבלוק:
 
 ```
 The attached image is Plate 37 of this same series. It shows a
@@ -191,6 +197,13 @@ standing to part height, fallen stone heaped inside and between
 them, no roof anywhere on the spur. In the town's own short wall, ONE
 clearly visible breach: a gap of tumbled stones where the attached
 plate shows the wall complete.
+
+ROOFS EXCEPTION: this plate explicitly asks for the exception the
+roofs rule allows. Every house on the spur top has LOST its roof and
+is drawn as a roofless ruined shell, open to the sky, seen from
+OUTSIDE at eye level. This is not a cut-away, not a cross-section
+and not a plan view: no interior layout is revealed — the walls
+simply stand open where the roofs have fallen in.
 
 PERIOD MATERIAL: dry-stone field-built siege wall, packed earth and
 stone bank, collapsed flat-roofed rubble houses, tumbled building
